@@ -1,0 +1,8 @@
+pdf2image
+transformers
+torch
+faiss-cpu
+pillow
+matplotlib
+streamlit
+numpy
